@@ -1,9 +1,9 @@
 function solve(arr, num) {
     for (let i = 0; i < num; i++ ){
-        let lastNum = arr.pop()
-        arr.unshift(lastNum)
+        let lastNum = arr.pop();
+        arr.unshift(lastNum);
     }
-    console.log(arr.join(" "))
+    console.log(arr.join(" "));
 }
 
 

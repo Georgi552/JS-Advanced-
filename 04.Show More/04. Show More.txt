@@ -1,0 +1,1 @@
+This funcion expands the hiden text, and makes it visible after clicking "show more" button.

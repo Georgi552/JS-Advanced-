@@ -1,0 +1,1 @@
+This function calculates the sum of the numbers inputed in the first 2 fialds. 

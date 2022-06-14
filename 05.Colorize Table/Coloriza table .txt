@@ -1,0 +1,1 @@
+This function colorizes the background of every odd element in the table, after clicking the buttton.
